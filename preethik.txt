@@ -1,2 +1,6 @@
 1st lab
+<<<<<<< HEAD
 GIT sub
+=======
+git subject
+>>>>>>> 598803eefe6f7ab299e23b926107a4663f13f354
