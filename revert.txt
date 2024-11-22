@@ -1,3 +1,6 @@
 1st line
+<<<<<<< HEAD
 2nd line
 3rd line
+=======
+>>>>>>> parent of 3e08c8b (2nd line)
