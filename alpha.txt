@@ -1,2 +1,6 @@
+<<<<<<< HEAD
 preethii 
 cse
+=======
+preethii
+>>>>>>> b7cd3bb (new)
