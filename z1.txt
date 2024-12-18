@@ -1,2 +1,6 @@
+<<<<<<< HEAD
 hii
 prethiik
+=======
+hiyfrufhrunji
+>>>>>>> sample

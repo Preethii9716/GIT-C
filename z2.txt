@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 djfhifeufeifjdifiurtioeufyeuifefuyfiuefewjnfkmfkldsnnji
+=======
+djfhiu
+>>>>>>> sample
