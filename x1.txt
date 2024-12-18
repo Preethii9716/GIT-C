@@ -1,3 +1,7 @@
+<<<<<<< HEAD
 dcjhwdihgj
 gyeruvjkm
 ghcuefojke
+=======
+dcjhwdij
+>>>>>>> 1bfac07 (1st)
