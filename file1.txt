@@ -1,3 +1,7 @@
 creating new branch
 demo
+<<<<<<< Updated upstream
 new line
+=======
+hiiii
+>>>>>>> Stashed changes
