@@ -5,4 +5,7 @@
 =======
 4th comment
 5th comment
+<<<<<<< Updated upstream
+>>>>>>> Stashed changes
+=======
 >>>>>>> Stashed changes
