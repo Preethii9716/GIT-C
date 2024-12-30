@@ -1,4 +1,8 @@
 Preethi.K
 Bengaluru
+<<<<<<< Updated upstream
 AIT
 CSE
+=======
+Hiii
+>>>>>>> Stashed changes
