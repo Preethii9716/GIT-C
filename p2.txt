@@ -1,4 +1,9 @@
 pree..
 acharya institute of technology..
+<<<<<<< Updated upstream
  new text
 edited
+=======
+new text
+stashing
+>>>>>>> Stashed changes
